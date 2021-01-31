@@ -1,19 +1,27 @@
-# 王帅
+# Jeff Wong
 
-## 我的爱好
-1. 足球
-2. 电影
-3. design
+## My hobbies
+1. Soccer
+2. Watching movies in cimema
+3. Design
 
-## 我的技能有
-* html
-* css
-* javascript
+## My skills
+- Programming Skills
+  * html
+  * css
+  * javascript
+- Design skills
+  * Ps
+  * Ai
+  * Sketch
 
-敲的第一组 html 标签是 `<h1></h1>`
+## The first pair of Html tags I typed
+`<h1>title</h1>`
 
-敲的第一段 js 代码是
+## The first paragraph of Javascript I typed
 ```javascript
 var a = 1;
 console.log(a);
 ```
+## Last But Not The Least
+* I am still single!!!
